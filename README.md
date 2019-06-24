@@ -1,7 +1,7 @@
 # MatchingGame
 Classic matching game
 
-### **[Play Now!](https://jubag.keybase.pub/MatchingGame/index.html)**
+### **[Play Now!](https://julienmartel.github.io/MatchingGame/index.html)**
 
 ## How to play
 - Click tiles and try to find a match.
